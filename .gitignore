@@ -30,9 +30,6 @@ server/views/setup.pug
 /config.yml
 
 # Data directories
-/repo
-/data
-/uploads
 /content
 /temp
 *.sqlite
