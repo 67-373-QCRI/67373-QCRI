@@ -45,3 +45,4 @@ test-results/
 # Localization Resources
 /server/locales/**/*.yml
 .DS_Store
+/data/.DS_Store
