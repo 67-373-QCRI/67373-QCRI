@@ -3,6 +3,6 @@
 assets/**
 client/libs/**
 coverage/**
-repo/**
 data/**
 logs/**
+node_modules/**
