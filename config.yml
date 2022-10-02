@@ -27,8 +27,8 @@ db:
   host: 67-373-qcri.postgres.database.azure.com
   port: 5432
   user: ykhanfar@67-373-qcri
-  pass: XGyDrgS9@9S46cxO
-  db: 67-373-qcri
+  pass: 2Z9Ym70SK6&B323Z
+  db: postgres
   ssl: false
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
