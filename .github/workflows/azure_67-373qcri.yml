@@ -23,7 +23,6 @@ jobs:
 
       - name: yarn
         run: |
-          yarn
           yarn dev
       
       - name: Upload artifact for deployment job
