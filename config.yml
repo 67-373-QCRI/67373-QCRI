@@ -29,7 +29,7 @@ db:
   user: ykhanfar@67-373-qcri
   pass: XGyDrgS9@9S46cxO
   db: 67-373-qcri
-  ssl: true
+  ssl: false
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
   # -> Uncomment lines you need below and set `auto` to false
