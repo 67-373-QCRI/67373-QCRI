@@ -24,12 +24,12 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
-  host: localhost
+  host: 67-373-qcri.postgres.database.azure.com
   port: 5432
-  user: postgres
-  pass: postgres
-  db: wiki
-  ssl: false
+  user: ykhanfar@67-373-qcri
+  pass: XGyDrgS9@9S46cxO
+  db: 67-373-qcri
+  ssl: true
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
   # -> Uncomment lines you need below and set `auto` to false
